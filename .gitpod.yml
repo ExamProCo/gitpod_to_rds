@@ -1,0 +1,12 @@
+image: gitpod/workspace-postgres
+tasks:
+  - name: Script Task
+    init: |
+      npm i http-server -g
+    command: |
+      http-server
+
+ports:
+  - name: http-server
+    port: 8080
+    visibility: public

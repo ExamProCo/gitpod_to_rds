@@ -19,3 +19,13 @@ namespace :db do
     })
   end
 ```
+
+## Get your IP Address
+
+You can use a service such as this:
+https://whatismyipaddress.com/hostname-ip
+
+
+Results:
+Lookup Hostname: 8080-examproco-gitpodtords-gs85lhv020s.ws-us84.gitpod.io
+Lookup IPv4 Address: 34.168.130.220
