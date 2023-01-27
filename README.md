@@ -22,6 +22,10 @@ namespace :db do
 
 ## Get your IP Address
 
+eg. https://8080-examproco-gitpodtords-ztjowhzyqir.ws-us84.gitpod.io
+
+> you might need to remove the trailing forward slash
+
 You can use a service such as this:
 https://whatismyipaddress.com/hostname-ip
 
@@ -29,3 +33,8 @@ https://whatismyipaddress.com/hostname-ip
 Results:
 Lookup Hostname: 8080-examproco-gitpodtords-gs85lhv020s.ws-us84.gitpod.io
 Lookup IPv4 Address: 34.168.130.220
+
+exp-bootcamp.cglotc3n8hbn.us-east-1.rds.amazonaws.com
+postgres
+
+postgresql://postgres:$8pgXNVty.Al[ZGY18$Kav0vN8vH@exp-bootcamp.cglotc3n8hbn.us-east-1.rds.amazonaws.com:5432/exp_bootcamp
